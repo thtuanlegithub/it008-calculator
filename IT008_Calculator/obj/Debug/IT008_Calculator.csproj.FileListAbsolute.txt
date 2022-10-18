@@ -1,0 +1,11 @@
+C:\Users\thanh\source\repos\IT008_Calculator\IT008_Calculator\bin\Debug\IT008_Calculator.exe.config
+C:\Users\thanh\source\repos\IT008_Calculator\IT008_Calculator\bin\Debug\IT008_Calculator.exe
+C:\Users\thanh\source\repos\IT008_Calculator\IT008_Calculator\bin\Debug\IT008_Calculator.pdb
+C:\Users\thanh\source\repos\IT008_Calculator\IT008_Calculator\obj\Debug\IT008_Calculator.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\IT008_Calculator\IT008_Calculator\obj\Debug\IT008_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\thanh\source\repos\IT008_Calculator\IT008_Calculator\obj\Debug\IT008_Calculator.Form1.resources
+C:\Users\thanh\source\repos\IT008_Calculator\IT008_Calculator\obj\Debug\IT008_Calculator.Properties.Resources.resources
+C:\Users\thanh\source\repos\IT008_Calculator\IT008_Calculator\obj\Debug\IT008_Calculator.csproj.GenerateResource.cache
+C:\Users\thanh\source\repos\IT008_Calculator\IT008_Calculator\obj\Debug\IT008_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\IT008_Calculator\IT008_Calculator\obj\Debug\IT008_Calculator.exe
+C:\Users\thanh\source\repos\IT008_Calculator\IT008_Calculator\obj\Debug\IT008_Calculator.pdb
